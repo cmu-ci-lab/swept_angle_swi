@@ -7,4 +7,4 @@ The file `process.m` shows an example.
 
 Captured measurement data is available on the [project website](https://imaging.cs.cmu.edu/swept_angle_swi/index_files/dataset_public.zip).
 
-If you use this code, please cite Kotwal et al. [2023].
+If you use this code, please cite [our paper](https://imaging.cs.cmu.edu/swept_angle_swi/#citation).
